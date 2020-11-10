@@ -1,0 +1,2 @@
+# speechtotextAlexa
+python tutorial
